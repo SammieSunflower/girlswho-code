@@ -26,9 +26,9 @@ def save_img(sun, sunflower):
 #       Returns: A New Image object with the filter applied.
 
 
-im = load_img("sunflower.jpg")
+im = load_img("sun.jpg")
 show_img(im)
-save_img(im, "sun.jpg")
+save_img(im, "sunflower.jpg")
 def obamicon(sun):
     pixels = sun.getdata()
     darkblue = (0, 51, 76)

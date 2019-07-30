@@ -1,0 +1,24 @@
+
+# Update this text to match your story.
+start = '''
+You go outside to play by the chicken coop by yourself. Suddenly, two chicks walk up to you. It’s Donald and Daisy.
+Donald says “ Your different! Your feathers look funny.”
+Daisy says “You are just an annoying duck. Grow up already!”
+You scream “Leave me alone!” and run away.
+You come across a path that splits into two. The left one leads to the forest and the right one to the boardwalk.
+
+'''
+
+print(start)
+
+print("Type 'left' to go left or 'right' to go right.") # Update to match your story.
+user_input = input()
+if user_input == "left":
+    print("You decide to go left and...") # Update to match your story.
+
+    # Continue code to finish story.
+
+elif user_input == "right":
+    print("You choose to go right and ...") # Update to match your story.
+
+    # Continue code to finish story.
